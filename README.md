@@ -14,5 +14,11 @@ The work is centered on the idea to inplement a **prototype of a task-oriented S
 
 For more implementational details, please, read the report: [SHRI_voice_bot](https://github.com/olga-sorokoletova/Spoken-Human-Robot-Interaction/tree/main/SHRI_voice_bot.pdf).
 
+## Example Dialogue
+
+<p align="center">
+  <img src="/dialogue/1.png" width="530" height="654"/><img src="/dialogue/2.png" width="530" height="654"/>
+</p>
+
 ## Author
 - Olga Sorokoletova - 1937430
